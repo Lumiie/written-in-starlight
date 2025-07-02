@@ -3,7 +3,7 @@ An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold a
 # features
 * A deep starry night sky as the full-screen background, subtle, beautiful, and non-distracting.
 
-* Elegant gold accents that glimmer like constellations.
+* Elegant gold accents reminiscent of constellations.
 
 * Soft yellow-tinted text that’s easy on the eyes, especially during late-night reading sessions.
 
