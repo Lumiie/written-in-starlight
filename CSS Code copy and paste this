@@ -1,0 +1,259 @@
+#workskin {
+  font-size: 130%;
+}
+
+.workskin {
+  line-height: 1.8 !important;
+}
+
+body::before {
+  content: "";
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: url('https://i.imgur.com/1b0nkUF.jpeg') center center no-repeat;
+  background-size: cover;
+  z-index: -1;
+}
+
+#header li a {
+  color: darkgoldenrod !important;
+}
+
+#header h1 a {
+  color: darkgoldenrod !important;
+}
+
+#main .actions a,
+#main .actions a:link,
+#main .action,
+#main .action:link,
+#main .actions input[type="submit"],
+#main .actions button,
+#main input[type="submit"],
+#main button,
+#main .current,
+#main .actions label {
+  background: #03071F !important;
+  border-color: #03071F !important;
+  color: #b3ab98 !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+#main .actions a:hover,
+#main .action:hover,
+#main .actions input[type="submit"]:hover,
+#main .actions button:hover,
+#main input[type="submit"]:hover,
+#main button:hover,
+#main .current:hover,
+#main .actions label:hover {
+  background: #03071F !important;
+  border-color: #03071F !important;
+  color: darkgoldenrod !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+  cursor: pointer;
+}
+
+#header {
+  background-color: #03071F !important;
+}
+
+#header .primary {
+  background-color: #03071F !important;
+}
+
+#footer a {
+  color: darkgoldenrod !important;
+}
+
+#footer {
+  background-color: #03071F !important;
+  color: darkgoldenrod !important;
+}
+
+#footer .heading {
+  color: darkgoldenrod !important;
+}
+
+#footer a {
+  border-bottom: none !important;
+}
+
+#header .heading a span {
+  display: none;
+}
+
+#header .heading a:before {
+  content: 'Archive Of Our Own';
+}
+
+input::placeholder,
+textarea::placeholder {
+  color: #999 !important;
+}
+
+#dashboard.own {
+  border-color: transparent !important;
+}
+
+.error,
+.comment_error,
+.kudos_error {
+  background-color: #03071F !important;
+  border: 1px solid #03071F !important;
+  color: #b3ab98 !important;
+  padding: 10px !important;
+  border-radius: 4px !important;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+.error,
+.comment_error,
+.kudos_error,
+.required,
+.LV_invalid {
+  color: #b3ab98 !important;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+.LV_invalid_field {
+  background-color: #03071F !important;
+  border-color: #03071F !important;
+  color: #b3ab98 !important;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+input.LV_invalid_field:focus,
+textarea.LV_invalid_field:focus {
+  background-color: #03071F !important;
+  border-color: #03071F !important;
+  color: #b3ab98 !important;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+.flash,
+.flash.success,
+.flash.error,
+.flash.notice {
+  background-image: none !important;
+  background: #03071F !important;
+  border: #000000 !important;
+  color: #b3ab98 !important;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+p.required.notice {
+  background: #03071F !important;
+  border: #000000 !important;
+  color: #b3ab98 !important;
+  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
+}
+
+span.submit.actions input.button[type="submit"][value="Search"] {
+  background: transparent !important;
+  color: #b3ab98 !important;
+  border: none !important;
+  box-shadow: none !important;
+  text-shadow: none !important;
+}
+
+span.submit.actions input.button[type="submit"][value="Search"]:hover {
+  color: darkgoldenrod !important;
+  cursor: pointer;
+}
+
+#site_search {
+  box-shadow: inset 0 2px 5px rgba(0, 0, 0, 0.5);
+  border: 1px solid #555;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+#site_search:hover {
+  border-color: #916700 !important;
+}
+
+li.work {
+  background: rgba(1, 3, 15, 0.8) !important;
+  border: none !important;
+  border-radius: 4px !important;
+}
+
+#workskin {
+  background-color: rgba(0, 0, 8, 0.8) !important;
+  padding: 3.4em;
+  border-radius: 0px;
+}
+
+#header ul.navigation li ul li a:hover {
+  background: #01030F !important;
+  color: darkgoldenrod !important;
+  cursor: pointer;
+}
+
+input,
+textarea,
+select,
+#work_search_language_id {
+  background: #1d1d20 !important;
+  color: #b3ab98 !important;
+  border: 1.6px solid #555 !important;
+  border-top-color: #999 !important;
+  padding: 0.15em 0.25em !important;
+  width: 100%;
+  box-shadow: inset 0 1px 2px rgba(255, 255, 255, 0.06);
+  border-radius: 1em;
+}
+
+input:focus,
+textarea:focus,
+select:focus,
+#work_search_language_id:focus {
+  outline: none !important;
+}
+
+#work_search_other_tag_names_autocomplete,
+#work_search_excluded_tag_names_autocomplete,
+#work-filters > fieldset:nth-child(2) #work_search_query,
+#collection_filters_title_autocomplete,
+#collection_filters_fandom_autocomplete {
+  display: block;
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+  background: #1d1d20 !important;
+  color: #b3ab98 !important;
+  border: 1.6px solid #555 !important;
+  border-top-color: #999 !important;
+  padding: 0.15em 0.25em !important;
+  border-radius: 1em;
+  box-shadow: inset 0 1px 3px rgba(255, 255, 255, 0.09);
+}
+
+.tags a {
+  color: #b3ab98 !important;
+}
+
+.tags a:hover {
+  color: darkgoldenrod !important;
+  background: none !important;
+}
+
+h4.heading a {
+  color: #b3ab98 !important;
+  text-decoration: none !important;
+}
+
+h4.heading a:visited {
+  color: darkgoldenrod !important;
+}
+
+#new_tag_search > fieldset:nth-child(1) > dl:nth-child(1) > dd:nth-child(6) > fieldset:nth-child(1),
+#new_tag_search > fieldset:nth-child(1) > dl:nth-child(1) > dd:nth-child(8) > fieldset:nth-child(1) {
+  background-color: #03071F !important;
+  box-shadow: none !important;
+}
