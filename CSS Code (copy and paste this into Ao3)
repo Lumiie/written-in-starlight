@@ -252,13 +252,15 @@ h4.heading a:visited {
   color: #b3ab98 !important;
 }
 
-#main li.chapter.next > a {
-  color: darkgoldenrod !important;
+#main li.chapter.next > a,
+#main li.chapter.previous > a {
+  color: #b3ab98 !important;
   text-decoration: none !important;
 }
 
-#main li.chapter.next > a:visited {
-  color: #b3ab98 !important;
+#main li.chapter.next > a:visited,
+#main li.chapter.previous > a:visited {
+  color: #8d8778 !important;
 }
 
 #new_tag_search > fieldset:nth-child(1) > dl:nth-child(1) > dd:nth-child(6) > fieldset:nth-child(1),
