@@ -1,5 +1,5 @@
 # written-in-starlight
-An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions.
+An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions. (works best on horizontal view on bigger screens, ipads, laptops, e.t.c)
 
 ![Alt text](IMG_1675.png)
 
