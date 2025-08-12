@@ -293,8 +293,8 @@ label.action input[type=checkbox]:checked,
 input[type=checkbox]:hover,
 .actions input[type=checkbox]:hover {
   border-radius: 17% !important;
-  width: 0.8em !important;
-  height: 0.8em !important;
+  width: 0.84em !important;
+  height: 0.84em !important;
 }
 
 .filters [type=radio] + .indicator:before {
