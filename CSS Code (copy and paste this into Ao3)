@@ -336,7 +336,7 @@ input[type=checkbox]:hover,
 }
 
 .filters .exclude [type=checkbox]:checked + .indicator:before {
-  background-color: #e48686 !important;
+  background-color: #e47070 !important;
 }
 
 input[type=checkbox],
