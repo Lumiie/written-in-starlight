@@ -272,12 +272,14 @@ h4.heading a:visited {
   box-shadow: none !important;
 }
 
+
 .filters [type=radio] + .indicator:before,
 .filters [type=radio]:checked + .indicator:before,
 input[type=radio]:checked,
 input[type=radio] {
   width: 0.92em !important;
   height: 0.92em !important;
+  border-radius: 100% !important;
 }
 
 .filters [type=checkbox] + .indicator:before,
@@ -285,14 +287,12 @@ input[type=radio] {
 .filters [type=checkbox]:checked + .indicator:before,
 .filters .exclude [type=checkbox]:checked + .indicator:before,
 input[type=checkbox],
-input[type=radio],
 input[type=checkbox]:checked,
-input[type=radio]:checked,
 .actions input[type=checkbox]:checked,
 label.action input[type=checkbox]:checked,
 input[type=checkbox]:hover,
 .actions input[type=checkbox]:hover {
-  border-radius: 50% !important;
+  border-radius: 17% !important;
   width: 0.8em !important;
   height: 0.8em !important;
 }
@@ -317,7 +317,7 @@ input[type=checkbox]:hover,
 .filters .exclude [type=checkbox] + .indicator:before {
   content: "" !important;
   padding: 0px !important;
-  border-radius: 0px !important;
+  border-radius: 17% !important;
   vertical-align: -0.125em !important;
   background: none !important;
   background-color: #4a4a4a !important;
@@ -328,7 +328,7 @@ input[type=checkbox]:hover,
 .filters .exclude [type=checkbox]:checked + .indicator:before {
   content: "" !important;
   padding: 0px !important;
-  border-radius: 0px !important;
+  border-radius: 17% !important;
   vertical-align: -0.125em !important;
   background: none !important;
   background-color: #86bfe4 !important;
