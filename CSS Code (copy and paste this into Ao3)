@@ -106,7 +106,12 @@ textarea::placeholder {
 
 .error,
 .comment_error,
-.kudos_error {
+.kudos_error
+.required,
+.LV_invalid
+.LV_invalid_field
+input.LV_invalid_field:focus,
+textarea.LV_invalid_field:focus {
   background-color: #03071F !important;
   border: 1px solid #03071F !important;
   color: #b3ab98 !important;
@@ -114,30 +119,7 @@ textarea::placeholder {
   border-radius: 4px !important;
   box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
 }
-
-.error,
-.comment_error,
-.kudos_error,
-.required,
-.LV_invalid {
-  color: #b3ab98 !important;
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
-}
-
-.LV_invalid_field {
-  background-color: #03071F !important;
-  border-color: #03071F !important;
-  color: #b3ab98 !important;
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
-}
-
-input.LV_invalid_field:focus,
-textarea.LV_invalid_field:focus {
-  background-color: #03071F !important;
-  border-color: #03071F !important;
-  color: #b3ab98 !important;
-  box-shadow: inset 0 0 10px rgba(0, 0, 0, 0.4) !important;
-}
+/* changes ao3 notice and announcement banners */
 
 .flash,
 .flash.success,
