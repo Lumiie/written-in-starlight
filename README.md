@@ -2,7 +2,8 @@
 An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions. (works best on horizontal view on bigger screens, ipads, laptops, e.t.c)
 
 ![Alt text](IMG_1675.png)
-
+![Alt text](IMG_1677.png)
+![Alt text](IMG_1678.png)
 # features
 * A deep starry night sky as the full-screen background, subtle, beautiful, and non-distracting.
 
