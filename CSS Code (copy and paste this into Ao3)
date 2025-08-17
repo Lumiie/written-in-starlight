@@ -272,7 +272,6 @@ h4.heading a:visited {
   box-shadow: none !important;
 }
 
-
 .filters [type=radio] + .indicator:before,
 .filters [type=radio]:checked + .indicator:before,
 input[type=radio]:checked,
@@ -376,4 +375,26 @@ label.action input[type=checkbox]:checked {
 
 .filters dt {
   min-width: auto !important;
+}
+
+a:active,
+a:focus,
+button:focus {
+  outline: none !important;
+}
+
+.filters input[type="checkbox"]:focus,
+.filters input[type="radio"]:focus,
+.filters label:focus,
+.filters label:active {
+  outline: none !important;
+  box-shadow: none !important;
+}
+
+span.question {
+  background: #03071F;
+  color: #b3ab98;
+  font-weight: normal;
+  border: 1px solid #b3ab98;
+  box-shadow: none;
 }
