@@ -392,9 +392,5 @@ button:focus {
 }
 
 span.question {
-  background: #03071F;
-  color: #b3ab98;
-  font-weight: normal;
-  border: 1px solid #b3ab98;
-  box-shadow: none;
+  display: none !important;
 }
