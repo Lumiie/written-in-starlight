@@ -17,7 +17,6 @@ I'm updating the skin pretty often to improve it, make sure to check back if you
 
 * Faithful to AO3’s original design, no major structural UI changes.
 
-Perfect for late-night reading sessions, rainy-day reading, or escaping into imagined worlds under a blanket of stars.
 # installation
 Create an Ao3 site skin, go to "Write Custom CSS" and paste the code into the text field.
 
