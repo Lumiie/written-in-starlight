@@ -1,23 +1,21 @@
-# written-in-starlight-ao3-site-skin
+# Written In Starlight Ao3 Skin
 An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions. (works best on horizontal view on bigger screens, ipads, laptops, e.t.c)
 
 I'm updating the skin pretty often to improve it, make sure to check back if you're interested in future versions!
 
+# Skin Image Preview
 ![Img1](preview-dashboard.jpeg) 
-
 
 
 ![Img2](preview-filters.jpeg) 
 
 
-
 ![Img2](preview-search.jpeg) 
-
 
 
 ![Img2](preview-mainworkarea.jpeg)
 
-# features
+# Features
 * A deep starry night sky as the full-screen background, subtle, beautiful, and non-distracting.
 
 * Elegant gold accents reminiscent of constellations.
@@ -28,7 +26,7 @@ I'm updating the skin pretty often to improve it, make sure to check back if you
 
 * Faithful to AO3’s original design, no major structural UI changes.
 
-# installation
+# Installation
 Create an Ao3 site skin, go to "Write Custom CSS" and paste the code into the text field.
 
 **!IMPORANT!
