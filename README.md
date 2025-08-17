@@ -4,8 +4,15 @@ An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold a
 I'm updating the skin pretty often to improve it, make sure to check back if you're interested in future versions!
 
 ![Img1](preview-dashboard.jpeg) 
+
+
 ![Img2](preview-filters.jpeg) 
+
+
 ![Img2](preview-search.jpeg) 
+
+
+
 ![Img2](preview-mainworkarea.jpeg)
 
 # features
