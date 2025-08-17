@@ -21,8 +21,8 @@ Perfect for late-night reading sessions, rainy-day reading, or escaping into ima
 # installation
 Create an Ao3 site skin, go to "Write Custom CSS" and paste the code into the text field.
 
-!IMPOERANT!
-This skin utilizes both "custom css" and "wizard", therefore you need to input the correct colour hex codes/name in "wizard" for this skin to work as intended.
+**!IMPORANT!
+This skin utilizes both "custom css" and "wizard", therefore you need to input the correct colour hex codes/name in "wizard" for this skin to work as intended.**
 
 Colour hex code for "wizard"
 
