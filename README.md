@@ -1,7 +1,7 @@
 # Written In Starlight Ao3 Skin
 An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions. (works best on horizontal view on bigger screens, ipads, laptops, e.t.c)
 
-I'm updating the skin pretty often to improve it, make sure to check back if you're interested in future versions!
+I'm still updating and changing small details, make sure to check back if you're interested in future versions!
 
 # Skin Image Preview
 ![Img1](preview-dashboard.jpeg) 
@@ -15,7 +15,7 @@ I'm updating the skin pretty often to improve it, make sure to check back if you
 
 ![Img2](preview-mainworkarea.jpeg)
 
-# Features
+# Aesthetic
 * A deep starry night sky as the full-screen background, subtle, beautiful, and non-distracting.
 
 * Elegant gold accents reminiscent of constellations.
@@ -26,11 +26,19 @@ I'm updating the skin pretty often to improve it, make sure to check back if you
 
 * Faithful to AO3’s original design, no major structural UI changes.
 
+# Features
+* The little round "questionmark button" is removed. Most people dont need it anyways unless they're a new user. I thought it's good for yall to know just in case.
+
+* Changed the look of the checkboxes to fit theme better (it looks so much better now)
+
+* The searchboxes now have rounded corners :D
+
 # Installation
 Create an Ao3 site skin, go to "Write Custom CSS" and paste the code into the text field.
 
-**!IMPORANT!
-This skin utilizes both "custom css" and "wizard", therefore you need to input the correct colour hex codes/name in "wizard" for this skin to work as intended.**
+**!VERY VERY INCREDIBLY IMPORANT PLEASE READ!**
+
+**This skin utilizes both "custom css" and "wizard", that means you need to input the correct colour hex codes/name in "wizard" for this skin to look as intended. Otherwise it will look butchered! Colour codes for wizard below!**
 
 Colour hex code for "wizard"
 
