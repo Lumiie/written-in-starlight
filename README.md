@@ -3,16 +3,7 @@ An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold a
 
 I'm updating the skin pretty often to improve it, make sure to check back if you're interested in future versions!
 
-<table>
-  <tr>
-    <td><img src="preview-dashboard.jpeg" width="200"/></td>
-    <td><img src="URL2" width="200"/></td>
-  </tr>
-  <tr>
-    <td><img src="URL3" width="200"/></td>
-    <td><img src="URL4" width="200"/></td>
-  </tr>
-</table>
+![Img1](preview-dashboard.jpeg) ![Img2](preview-filters.jpeg) ![Img2](preview-search.jpeg) ![Img2](preview-mainworkarea.jpeg)
 # features
 * A deep starry night sky as the full-screen background, subtle, beautiful, and non-distracting.
 
