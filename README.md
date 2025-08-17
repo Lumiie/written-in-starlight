@@ -6,7 +6,9 @@ I'm updating the skin pretty often to improve it, make sure to check back if you
 ![Img1](preview-dashboard.jpeg) 
 
 
+
 ![Img2](preview-filters.jpeg) 
+
 
 
 ![Img2](preview-search.jpeg) 
