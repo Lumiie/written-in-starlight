@@ -3,6 +3,10 @@ An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold a
 
 I'm still updating and changing small details, make sure to check back if you're interested in future versions!
 
+**!VERY VERY INCREDIBLY IMPORANT PLEASE READ!**
+
+**This skin utilizes both "custom css" and "wizard", that means you need to input the correct colour hex codes/name in "wizard" for this skin to look as intended. Otherwise it will look butchered! Colour codes for wizard at the bottom of the page!**
+
 # Skin Image Preview
 ![Img1](preview-dashboard.jpeg) 
 
