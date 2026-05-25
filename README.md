@@ -1,5 +1,5 @@
 # Written In Starlight Ao3 Skin
-An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions. (works best on horizontal view on bigger screens, ipads, laptops, e.t.c)
+An elegant, minimalist AO3 site skin with a dark starry night theme, warm gold accents, designed for midnight reading sessions. Works well on both phones, tablets and laptops, but it is designed with tablet devices in mind.
 
 I'm still updating and changing small details, make sure to check back if you're interested in future versions!
 
