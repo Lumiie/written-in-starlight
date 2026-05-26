@@ -436,16 +436,11 @@ a.rss span {
 #main > div.skins.home > div.primary.header.module > h2 {
   border-bottom: none !important;
   text-decoration: none !important;
-  padding-right: 0.3vw !important;
-}
-
-#main > div.skins.home > div.primary.header.module > blockquote {
-  margin-left: 0 !important;
-  padding-left: 0 !important;
+  padding-right: 0.8% !important;
 }
 
 textarea::-webkit-scrollbar {
-  width: 0.3em;
+  width: -5em;
 }
 
 textarea::-webkit-scrollbar-track {
@@ -460,6 +455,7 @@ textarea::-webkit-scrollbar-thumb {
 textarea {
   resize: none !important;
 }
+
 #main > div.splash > div.social.module {
   display: none !important;
 }
@@ -468,4 +464,13 @@ textarea {
   width: 100% !important;
   max-width: 100% !important;
   box-sizing: border-box !important;
+}
+
+#main > div.work > div.wrapper > dl {
+  border: none !important;
+  margin-bottom: 5.2em !important;
+}
+
+#workskin > div:nth-child(1) > h2 {
+  margin-top: 1em !important;
 }
