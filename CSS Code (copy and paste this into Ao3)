@@ -460,3 +460,12 @@ textarea::-webkit-scrollbar-thumb {
 textarea {
   resize: none !important;
 }
+#main > div.splash > div.social.module {
+  display: none !important;
+}
+
+#main > div.splash > div.random.readings.module.odd {
+  width: 100% !important;
+  max-width: 100% !important;
+  box-sizing: border-box !important;
+}
